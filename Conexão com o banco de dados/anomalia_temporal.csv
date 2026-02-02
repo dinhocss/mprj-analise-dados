@@ -1,0 +1,42 @@
+id_pagamento;data_liquidacao;data_pagamento;credor;dias_antecipados
+PGT-244;2024-01-26;2024-01-03;TI Inovacao;23
+PGT-25;2024-01-26;2024-01-05;ConstruRio Engenharia;21
+PGT-275;2024-01-22;2024-01-02;Transportes Rapido;20
+PGT-278;2024-01-27;2024-01-13;Transportes Rapido;14
+PGT-329;2024-01-25;2024-01-13;Merenda Boa Alimentos;12
+PGT-348;2024-01-28;2024-01-06;Saude Vida Distribuidora;22
+PGT-353;2024-01-09;2023-12-30;Eventos & Promo;10
+PGT-354;2024-01-29;2024-01-07;TI Inovacao;22
+PGT-370;2024-01-25;2024-01-15;TI Inovacao;10
+PGT-375;2024-01-22;2024-01-04;Consultoria Estrategica;18
+PGT-379;2024-01-30;2024-01-15;Eventos & Promo;15
+PGT-4;2024-01-21;2024-01-06;Obras Viarias RJ;15
+PGT-425;2024-01-16;2024-01-05;Transportes Rapido;11
+PGT-446;2024-01-25;2024-01-02;Transportes Rapido;23
+PGT-450;2024-02-01;2024-01-07;Merenda Boa Alimentos;25
+PGT-453;2024-01-27;2024-01-07;TechServer Solucoes;20
+PGT-46;2024-02-08;2024-01-14;Papelaria Central;25
+PGT-477;2024-01-23;2024-01-02;Papelaria Central;21
+PGT-481;2024-01-28;2024-01-09;Merenda Boa Alimentos;19
+PGT-484;2024-01-31;2024-01-06;Saude Vida Distribuidora;25
+PGT-50;2024-01-24;2024-01-05;TI Inovacao;19
+PGT-57;2024-01-26;2024-01-11;Eventos & Promo;15
+PGT-6;2024-01-14;2023-12-31;Eventos & Promo;14
+PGT-65;2024-01-26;2024-01-08;ConstruRio Engenharia;18
+PGT-74;2024-01-22;2023-12-31;Saude Vida Distribuidora;22
+PGT-76;2024-02-04;2024-01-10;Consultoria Estrategica;25
+PGT-82;2024-01-29;2024-01-07;Eventos & Promo;22
+PGT-83;2024-02-08;2024-01-15;LimpMax Servicos;24
+PGT-10;2024-02-01;2024-01-08;ConstruRio Engenharia;24
+PGT-112;2024-01-21;2024-01-11;Merenda Boa Alimentos;10
+PGT-127;2024-01-23;2024-01-09;LimpMax Servicos;14
+PGT-14;2024-01-19;2024-01-05;Saude Vida Distribuidora;14
+PGT-143;2024-01-20;2024-01-06;Papelaria Central;14
+PGT-169;2024-01-14;2024-01-03;Saude Vida Distribuidora;11
+PGT-19;2024-01-20;2023-12-31;Eventos & Promo;20
+PGT-191;2024-01-17;2023-12-30;Eventos & Promo;18
+PGT-202;2024-02-04;2024-01-10;Merenda Boa Alimentos;25
+PGT-213;2024-01-20;2024-01-06;ConstruRio Engenharia;14
+PGT-215;2024-01-24;2024-01-02;Eventos & Promo;22
+PGT-203;2024-01-20;2024-01-09;Merenda Boa Alimentos;11
+PGT-222;2024-01-27;2024-01-11;Saude Vida Distribuidora;16
