@@ -12,5 +12,10 @@ Este repositório contém os artefatos técnicos do desafio de análise de dados
 
 ## Relatório Técnico (PDF)
 
-O documento completo com todas as conclusões pode ser visualizado diretamente no navegador ou baixado: [Clique para ler o Relatório Técnico completo] (./Relatorio_Tecnico.pdf)
+O documento completo com todas as conclusões pode ser visualizado diretamente no navegador ou baixado: [Clique para ler o Relatório Técnico completo](./Relatorio_Tecnico.pdf)
+
+## Dashboard e Visualizações
+
+Como o projeto foi desenvolvido em Power BI Desktop, para interagir com os dados, é necessário:
+1. Baixar o arquivo [Analises_graficas.pbix](./Analise-Grafica/Analises_graficas)
 
