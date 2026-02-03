@@ -17,5 +17,5 @@ O documento completo com todas as conclusões pode ser visualizado diretamente n
 ## Dashboard e Visualizações
 
 Como o projeto foi desenvolvido em Power BI Desktop, para interagir com os dados, é necessário:
-1. Baixar o arquivo [Analises_graficas.pbix](./Analise-Grafica/Analises_graficas)
+1. Baixar o arquivo [Analises_graficas.pbix](./Analise-Grafica/Analises_graficas.pbix)
 
